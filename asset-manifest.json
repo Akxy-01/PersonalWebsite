@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.aad4fd5a.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.1cc494e5.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.1cc494e5.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.2b01367d.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.2b01367d.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/PersonalWebsite/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.319f10cd.chunk.js": "/PersonalWebsite/static/js/2.319f10cd.chunk.js",
+    "static/js/2.319f10cd.chunk.js.map": "/PersonalWebsite/static/js/2.319f10cd.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "precache-manifest.eb1c53af416b33fad314aaecb3a88cac.js": "/PersonalWebsite/precache-manifest.eb1c53af416b33fad314aaecb3a88cac.js",
+    "service-worker.js": "/PersonalWebsite/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/PersonalWebsite/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.aad4fd5a.chunk.css.map": "/PersonalWebsite/static/css/main.aad4fd5a.chunk.css.map",
+    "static/js/2.319f10cd.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.319f10cd.chunk.js.LICENSE.txt",
+    "static/media/bucketshaper.png": "/PersonalWebsite/static/media/bucketshaper.b53070e0.png",
+    "static/media/halmagame.jpg": "/PersonalWebsite/static/media/halmagame.34df1aec.jpg",
+    "static/media/mypic.jpeg": "/PersonalWebsite/static/media/mypic.7bca762b.jpeg",
+    "static/media/searchagent.jpg": "/PersonalWebsite/static/media/searchagent.8c915dbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b01367d.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.319f10cd.chunk.js",
+    "static/css/main.aad4fd5a.chunk.css",
+    "static/js/main.1cc494e5.chunk.js"
+  ]
+}
