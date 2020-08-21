@@ -15,7 +15,7 @@
     "react-scripts": "3.4.3",
     "react-spring": "^8.0.27"
   },
-  "scripts": { 
+  "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

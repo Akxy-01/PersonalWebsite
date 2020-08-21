@@ -32,7 +32,7 @@ class App extends React.Component {
   }
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Container className="p-0" fluid={true}>
           <Navbar className="border-bottom" bg="transparent" expand="lg">
             <Navbar.Brand>Akshatha Sudhir</Navbar.Brand>
@@ -46,7 +46,7 @@ class App extends React.Component {
             </Navbar.Collapse>
           </Navbar>
 
-          <Route path="/" exact render={() => <HomePage title={this.state.home.title} subtitle={this.state.home.subtitle} text={this.state.home.text}/>} />
+          <Route exact path="/" render={() => <HomePage title={this.state.home.title} subtitle={this.state.home.subtitle} text={this.state.home.text}/>} />
           <Route path="/about" exact render={() => <AboutPage title={this.state.about.title} />} />
 
           <Footer />
