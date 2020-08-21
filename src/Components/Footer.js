@@ -5,14 +5,14 @@ import Col from 'react-bootstrap/Col';
 
 function Footer() {
 	return (
-		<footer className="mt-5">
+		<footer className="mt-5" style={{backgroundColor: '#45A293'}}>
 			<Container fluid={true}>
 				<Row className="border-top justify-content-between p-3">
 					<Col className="p-0" md={3} sm={12}>
-						Akshatha Sudhir
+						&#9993;  Contact: asudhir@usc.edu
 					</Col>
 					<Col className="p-0 d-flex justify-content-end" md={3}>
-						This site was made by Akshatha Sudhir.
+						&copy;This site was made by Akshatha Sudhir.
 					</Col>
 
 				</Row>

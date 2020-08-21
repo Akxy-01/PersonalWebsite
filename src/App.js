@@ -31,10 +31,11 @@ class App extends React.Component {
     }
   }
   render() {
+    console.log(process.env.PUBLIC_URL);
     return (
       <Router basename={process.env.PUBLIC_URL}>
         <Container className="p-0" fluid={true}>
-          <Navbar className="border-bottom" bg="transparent" expand="lg">
+          <Navbar className="border-bottom" bg="transparent" expand="lg" style={{fontWeight: 'bold', fontSize: '20px'}}>
             <Navbar.Brand>Akshatha Sudhir</Navbar.Brand>
 
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
