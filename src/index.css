@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
@@ -13,11 +14,29 @@ code {
 }
 
 .mypic-st {
-	margin-bottom: 70px;
-	border-radius: 10px;
-	width: 250px;
-	height: 300px;
+  margin:30px;
+	border-radius: 50%;
+	width: 25%;
+	height: 50%;
 	box-shadow: 0px 0px 3px 1px #ccc;
+}
+
+.navbar {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold; 
+  font-size: 20px;
+  border: 1px solid #e2e2e2;
+}
+
+.nav-link {
+  border-left: 1px solid #7f7f7f;
+  border-right: 1px solid #7f7f7f;
+  line-height: 5px;
+  padding-right: 10px;
+}
+
+.text {
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .a-card {
@@ -26,7 +45,7 @@ code {
 
 .a-card-image {
 	border-radius: 10px;
-	width: 250px;
+	width: 710px;
 	height: 300px;
 	box-shadow: 0px 0px 3px 1px #ccc;
 }

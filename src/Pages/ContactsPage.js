@@ -5,7 +5,7 @@ import Picture from '../Components/Picture';
 import Content from '../Components/Content';
 import { Container } from 'react-bootstrap';
 
-function HomePage() {
+function ContactsPage() {
 	return(
 		<Container fluid={true} style={{fontFamily:'Courier New'}}>
 			<Row>
@@ -36,10 +36,9 @@ function HomePage() {
 				<Col xs={7}>
 					<Content>
 						<br />
-						<h3 style={{fontWeight: 'bold'}}>ABOUT THIS SITE</h3>
-						<p>A STATIC RESPONSIVE REACT APPLICATION INTEGRATED WITH NODEJS</p>
+						<h3><b>CONTACT</b></h3>
 						<hr />
-						<p>You can check out my projects, have a look at my resume and know more about me on this website.</p>
+						<p>Feel free to get in touch. You can mail me at: <br />aksh0103sudhir@gmail.com</p>
 					</Content>
 				</Col>
 			</Row>
@@ -47,4 +46,4 @@ function HomePage() {
 	);
 }
 
-export default HomePage;
+export default ContactsPage;

@@ -4,8 +4,9 @@ import Col from 'react-bootstrap/Col';
 import Picture from '../Components/Picture';
 import Content from '../Components/Content';
 import { Container } from 'react-bootstrap';
+import Carousel from '../Components/Carousel';
 
-function HomePage() {
+function ProjectsPage() {
 	return(
 		<Container fluid={true} style={{fontFamily:'Courier New'}}>
 			<Row>
@@ -36,10 +37,9 @@ function HomePage() {
 				<Col xs={7}>
 					<Content>
 						<br />
-						<h3 style={{fontWeight: 'bold'}}>ABOUT THIS SITE</h3>
-						<p>A STATIC RESPONSIVE REACT APPLICATION INTEGRATED WITH NODEJS</p>
+						<h3 style={{fontWeight: 'bold'}}>PROJECTS</h3>
 						<hr />
-						<p>You can check out my projects, have a look at my resume and know more about me on this website.</p>
+						<Carousel />
 					</Content>
 				</Col>
 			</Row>
@@ -47,4 +47,4 @@ function HomePage() {
 	);
 }
 
-export default HomePage;
+export default ProjectsPage;

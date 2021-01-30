@@ -5,9 +5,9 @@ import Col from 'react-bootstrap/Col';
 
 function Content(props) {
 	return(
-		<Container fluid={true}>
-			<Row className="justify-content-center">
-				<Col md={8}>
+		<Container className="block-example border" fluid={true} style={{marginTop: '50px',marginBottom:'50px', backgroundColor:'white', fontFamily: 'Courier New'}}>
+			<Row className="justify-content-left">
+				<Col>
 					{props.children}
 				</Col>
 			</Row>
