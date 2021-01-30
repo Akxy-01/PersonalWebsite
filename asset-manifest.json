@@ -1,30 +1,33 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.214fb771.chunk.css",
-    "main.js": "/PersonalWebsite/static/js/main.6b768a77.chunk.js",
-    "main.js.map": "/PersonalWebsite/static/js/main.6b768a77.chunk.js.map",
+    "main.css": "/PersonalWebsite/static/css/main.bba045cb.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.56212862.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.56212862.chunk.js.map",
     "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.2b01367d.js",
     "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.2b01367d.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/PersonalWebsite/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.af5d4bca.chunk.js": "/PersonalWebsite/static/js/2.af5d4bca.chunk.js",
-    "static/js/2.af5d4bca.chunk.js.map": "/PersonalWebsite/static/js/2.af5d4bca.chunk.js.map",
+    "static/js/2.cff11fa7.chunk.js": "/PersonalWebsite/static/js/2.cff11fa7.chunk.js",
+    "static/js/2.cff11fa7.chunk.js.map": "/PersonalWebsite/static/js/2.cff11fa7.chunk.js.map",
     "index.html": "/PersonalWebsite/index.html",
-    "precache-manifest.398d1363c88c37a5cdfc8ae87df7fa07.js": "/PersonalWebsite/precache-manifest.398d1363c88c37a5cdfc8ae87df7fa07.js",
+    "precache-manifest.155e5a28db69f8cdceb96b5984eb9a93.js": "/PersonalWebsite/precache-manifest.155e5a28db69f8cdceb96b5984eb9a93.js",
     "service-worker.js": "/PersonalWebsite/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/PersonalWebsite/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.214fb771.chunk.css.map": "/PersonalWebsite/static/css/main.214fb771.chunk.css.map",
-    "static/js/2.af5d4bca.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.af5d4bca.chunk.js.LICENSE.txt",
+    "static/css/main.bba045cb.chunk.css.map": "/PersonalWebsite/static/css/main.bba045cb.chunk.css.map",
+    "static/js/2.cff11fa7.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.cff11fa7.chunk.js.LICENSE.txt",
+    "static/media/Halma.jpeg": "/PersonalWebsite/static/media/Halma.1ee078da.jpeg",
+    "static/media/android.png": "/PersonalWebsite/static/media/android.d7ebb153.png",
+    "static/media/angular.png": "/PersonalWebsite/static/media/angular.91cd61ff.png",
     "static/media/bucketshaper.png": "/PersonalWebsite/static/media/bucketshaper.b53070e0.png",
-    "static/media/halmagame.jpg": "/PersonalWebsite/static/media/halmagame.34df1aec.jpg",
     "static/media/logicalanalyzer.png": "/PersonalWebsite/static/media/logicalanalyzer.0ba22bb3.png",
     "static/media/mypic.jpeg": "/PersonalWebsite/static/media/mypic.7bca762b.jpeg",
-    "static/media/searchagent.jpg": "/PersonalWebsite/static/media/searchagent.8c915dbe.jpg"
+    "static/media/searchagent.jpg": "/PersonalWebsite/static/media/searchagent.8c915dbe.jpg",
+    "static/media/stocksearch.png": "/PersonalWebsite/static/media/stocksearch.7ee7a34a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2b01367d.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.af5d4bca.chunk.js",
-    "static/css/main.214fb771.chunk.css",
-    "static/js/main.6b768a77.chunk.js"
+    "static/js/2.cff11fa7.chunk.js",
+    "static/css/main.bba045cb.chunk.css",
+    "static/js/main.56212862.chunk.js"
   ]
 }
