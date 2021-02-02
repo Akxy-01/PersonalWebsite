@@ -15,9 +15,8 @@ code {
 
 .mypic-st {
   margin:30px;
-	border-radius: 50%;
-	width: 25%;
-	height: 50%;
+  border-radius: 50%;
+  height: 150;
 	box-shadow: 0px 0px 3px 1px #ccc;
 }
 
